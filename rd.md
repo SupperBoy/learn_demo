@@ -1,1 +1,0 @@
-1. 使用transform-class-properties会导致无法声明变量，此处有坑！！！！
